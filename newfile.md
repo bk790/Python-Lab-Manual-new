@@ -1,4 +1,4 @@
-# Python Laboratory Experiments (Experiment 4–12)
+# Python Lab (Experiment 4–12)
 
 ---
 
